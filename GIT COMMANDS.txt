@@ -1,0 +1,26 @@
+VINAY P10:50 AM
+1  pwd
+    2  python --version
+    3  pip install python
+    4  clear
+    5  touch app.py
+    6  sudo yum install -y ruby
+    7  python --version
+    8  clear
+    9  git clone https://github.com/Vzmskml/eb-tomcat-snakes.git
+   10  dir
+   11  ls -al
+   12  cd eb-tomcat-snakes/
+   13  ls -al
+   14  rm -rf .git
+   15  ls -al
+   16  git init
+   17  ls -al
+   18  git remote -v
+   19  git remote add orgin https://git-codecommit.us-east-1.amazonaws.com/v1/repos/vzmskmlrepo-1
+   20  git remote -v
+21  git status
+   22  git add . && git commit -m "first commit"
+   23  git push origin master
+   24  git push orgin master
+   25  history
